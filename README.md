@@ -42,19 +42,6 @@ Research paper on Condition-Based Predictive Maintenance currently under prepara
 
 </div>
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan9999-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan9999-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
 
 <div align="center">
 
